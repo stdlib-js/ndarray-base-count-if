@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4a1b036`](https://github.com/stdlib-js/stdlib/commit/4a1b0361b7491efedfd3983f4a686601ba12c673) - **docs:** update type _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
 -   [`02934dd`](https://github.com/stdlib-js/stdlib/commit/02934ddb2c30d40c07f4a8de4c7ef8e83b8c6757) - **docs:** update comment _(by Athan Reines)_
