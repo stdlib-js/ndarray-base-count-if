@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import countIf from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-count-if@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-count-if/tags). For example,
+
+```javascript
 import countIf from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-count-if@v0.1.1-deno/mod.js';
 ```
 
@@ -183,7 +188,7 @@ var count = ctx.count;
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import countIf from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-count-if@v0.1.1-deno/mod.js';
+import countIf from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-count-if@deno/mod.js';
 
 function clbk( value ) {
     return value > 0;
